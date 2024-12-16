@@ -2,7 +2,7 @@
 
 ## Biography 🌐 <br/>
 
-👩‍💻 Sou estudante em programção , inciante no desenvolvimento web e me especializando a cada dia mais nesse mundo tecnológico. <br><br/>
+👩‍💻 Sou estudante em programção , iniciante no desenvolvimento web e me especializando a cada dia mais nesse mundo tecnológico. <br><br/>
 
 ### Tecnologias que eu uso no meu dia<br/> 
 <div style="display: inline_block">
